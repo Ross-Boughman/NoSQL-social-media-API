@@ -1,0 +1,22 @@
+{
+    "name": "nosql-social-media-api",
+    "version": "1.0.0",
+    "description": "## Table of Contents",
+    "main": "server.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Ross-Boughman/NoSQL-social-media-API"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "MIT",
+    "homepage": "https://github.com/Ross-Boughman/NoSQL-social-media-API#readme",
+    "dependencies": {
+      "express": "^4.18.2",
+      "mongoose": "^7.0.4"
+    }
+  }
