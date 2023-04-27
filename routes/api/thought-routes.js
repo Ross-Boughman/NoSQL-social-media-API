@@ -1,5 +1,5 @@
 const router = require("express").Router();
-const { findAllThought, findOneThought, createThought, changeThought, deleteThought, createReaction, deleteReaction, } = require("../../controllers/thought-controller");
+const { findAllThought, findOneThought, createThought, changeThought, deleteThought, createReaction, deleteReaction, } = require("../../controllers/thought");
 
 // routes for all thoughts
 router.route("/").get(findAllThought).post(createThought);
