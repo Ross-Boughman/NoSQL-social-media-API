@@ -21,6 +21,10 @@ Simply run npm i
 
 To start the APP, type npm start into the command line.
 
+## Demo
+
+A video of the APP working on Insomnia: [Demonstration](https://drive.google.com/file/d/17NXNxrz5nN7li4elw2TwOC7yy8r0HNyL/view)
+
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
